@@ -1,0 +1,41 @@
+{
+  "layout": {
+    "login": "Đăng nhập",
+    "menu": "Menu",
+    "menu_items": {
+      "product": "Sản phẩm",
+      "inventigate": "Nghiên cứu",
+      "service": "Dịch vụ"
+    },
+    "pricing": "Pricing",
+    "pricing_items": {
+      "personal": "Cá nhân",
+      "enterprise": "Doanh nghiệp",
+      "company": "Công ty"
+    },
+    "support": "Support",
+    "support_items": {
+      "support": "Hỗ trợ",
+      "privacy": "Chính sách bảo mật",
+      "contact": "Liên hệ"
+    },
+    "sign_out":"Đăng xuất"
+  },
+  "home":  {
+    "computer_vision": "Thị giác máy tính",
+    "language_process": "Xử lý ngôn ngữ tự nhiên",
+    "robot_control": "Điều khiển robot và tự động hóa",
+    "learn_and_optimize": "Học tăng cường và tối ưu hóa",
+    "data_analyze": "Công cụ trực quan hóa dữ liệu"
+  },
+  "records": {
+    "list_records": "Bản ghi âm",
+    "delete_btn": "Xóa",
+    "detail_btn": "Xem",
+    "record": "Ghi âm",
+    "add_audio": "Thêm file audio",
+    "trans": "Dịch",
+    "intruction": "Hướng dẫn",
+    "download": "Tải xuống"
+  }
+}

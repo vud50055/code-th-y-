@@ -1,0 +1,24 @@
+.fc-direction-ltr .fc-daygrid-event .fc-event-time {
+    display: none;
+}
+
+.advertise {
+    text-align: center;
+    margin: 30px 10px;
+}
+
+.advertise img {
+    width: 900px;
+}
+#back-to-top{
+    color: #269196 ;
+background-color: none;
+padding: 10px;
+border-radius: 5px;
+border: 2px solid #269196;
+position: fixed;
+top: 80%;
+left: 90%;
+}
+
+

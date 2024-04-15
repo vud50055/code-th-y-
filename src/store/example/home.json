@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "/ic-cate1.png",
+      "title": "computer_vision"
+    },
+    {
+      "id": 2,
+      "img": "/ic-cate2.png",
+      "title": "language_process"
+    },
+    {
+      "id": 3,
+      "img": "/ic-cate3.png",
+      "title": "robot_control"
+    },
+    {
+      "id": 4,
+      "img": "/ic-cate4.png",
+      "title": "learn_and_optimize"
+    },
+    {
+      "id": 5,
+      "img": "/ic-cate5.png",
+      "title": "data_analyze"
+    }
+  ]
+}

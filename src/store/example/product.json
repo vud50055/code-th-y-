@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "banner": "/banner-home.jpg",
+      "title": "computer_vision",
+      "products": [
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "NHẬN DIỆN KHUÔN MẶT",
+          "description": "Phát hiện khuôn mặt là quá trình xác định và định vị khuôn mặt người trong luồng hình ảnh hoặc video. Công nghệ này có thể được sử dụng cho nhiều ứng dụng, chẳng hạn như giám sát an ninh, gắn thẻ ảnh và thực tế tăng cường.",
+          "content": "<ul><li>Các mô hình AI có thể được sử dụng để phát hiện các trạng thái khác nhau của khuôn mặt, chẳng hạn như biểu cảm bình thường, nụ cười hoặc cau mày. Ngoài ra, những mô hình này có thể được đào tạo để nhận ra các cá nhân cụ thể hoặc thậm chí là cảm xúc dựa trên nét mặt.</li><li>Bằng cách theo dõi những thay đổi trong nét mặt và chuyển động, có thể xác định các sự kiện cụ thể, chẳng hạn như một người nhìn đi chỗ khác, chớp mắt hoặc gật đầu. Thông tin này có thể được sử dụng để hiểu rõ hơn về hành vi và tương tác của con người trong các bối cảnh khác nhau.</li><li>Hơn nữa, thời gian giữa các sự kiện cụ thể trên khuôn mặt có thể được đo lường và phân tích để hiểu rõ hơn về các kiểu hành vi và trạng thái cảm xúc. Thông tin này có thể được sử dụng trong nhiều ứng dụng khác nhau, chẳng hạn như nghiên cứu tiếp thị, tâm lý học và tương tác giữa người với máy tính.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/posture-445x252.jpg",
+          "title": "PHÁT HIỆN TƯ THẾ",
+          "description": "Phát hiện hoạt động và chuyển động của con người bằng cách áp dụng nhận dạng tư thế cho nguồn cấp dữ liệu video",
+          "content": "<ul><li>AI lập mô hình để phát hiện các trạng thái tư thế sau: Nằm, ngồi, đi và đứng.</li><li>Theo dõi những thay đổi về tư thế của con người để xác định các sự kiện cụ thể (đứng lên, ngồi xuống, ngã xuống).</li><li>Xác định thời gian giữa các sự kiện thay đổi tư thế cụ thể.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "PHÁT HIỆN NGƯỜI ĐEO KHẨU TRANG",
+          "description": "Việc áp dụng các mô hình AI để phát hiện hành vi đeo khẩu trang trong nguồn cấp dữ liệu video có thể là một công cụ hữu ích trong việc thực thi các chính sách y tế công cộng. Dưới đây là một số tính năng tiềm năng của một hệ thống như vậy:",
+          "content": "<ul><li>Các mô hình AI để phát hiện sự hiện diện hay vắng mặt của mặt nạ trên khuôn mặt của mọi người trong nguồn cấp dữ liệu video.</li><li>Theo dõi các thay đổi trong hành vi đeo khẩu trang để xác định các sự kiện cụ thể, chẳng hạn như mọi người đeo hoặc tháo khẩu trang.</li><li>Xác định khoảng thời gian các cá nhân đeo hoặc không đeo khẩu trang.</li><li>Thông báo cho nhân viên an ninh hoặc y tế nếu các cá nhân không đeo khẩu trang ở những khu vực được chỉ định.</li><li>Cung cấp dữ liệu về việc tuân thủ các chính sách đeo khẩu trang theo thời gian, cho phép phân tích các xu hướng và hiệu quả của các biện pháp can thiệp y tế công cộng.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "banner": "/banner-home.jpg",
+      "img": "/ic-cate2.png",
+      "title": "language_process",
+      "products": [
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "try_url": "https://056d-2402-800-61b3-9c9f-3ad3-ffc3-6d2d-6a15.ngrok-free.app/",
+          "is_redirect": false,
+          "thumbnail": "/speechtotext-445x252.jpg",
+          "title": "CHUYỂN ĐỔI GIỌNG NÓI THÀNH VĂN BẢN",
+          "description": "Công nghệ chuyển đổi giọng nói thành văn bản một cách nhanh chóng và hiệu quả.",
+          "content": "<ul><li>Phiên âm chính xác các từ đã nói thành văn bản, bao gồm dấu câu và ngữ pháp thích hợp.</li><li>Phân biệt giữa những người nói khác nhau trong một cuộc trò chuyện.</li><li>Xác định và phiên âm các ngôn ngữ và phương ngữ khác nhau.</li><li>Cung cấp bản ghi lời nói để sử dụng trong phụ đề chi tiết cho khả năng tiếp cận.</li><li>Phiên âm lời nói theo thời gian thực để sử dụng trong các sự kiện trực tiếp, chẳng hạn như hội nghị hoặc bài phát biểu.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "try_url": "https://a631-2402-800-61b3-9c9f-3ad3-ffc3-6d2d-6a15.ngrok-free.app/",
+          "is_redirect": false,
+          "thumbnail": "/voicerecognition-445x252.jpg",
+          "title": "ĐỊNH DANH NGƯỜI NÓI",
+          "description": "Nhận dạng người nói từ bản ghi âm bằng mô hình AI:",
+          "content": "<ul><li>Áp dụng các mô hình nhận dạng người nói cho nguồn cấp dữ liệu âm thanh để xác định từng người nói.</li><li>Phát hiện những thay đổi của người nói để xác định các sự kiện cụ thể (chuyển đổi người nói, tham gia hoặc rời khỏi cuộc hội thoại).</li><li>Xác định khoảng thời gian mỗi người nói và tần suất đóng góp của họ cho cuộc trò chuyện.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "try_url": "https://b954-2402-800-61b3-9c9f-3ad3-ffc3-6d2d-6a15.ngrok-free.app/",
+          "is_redirect": false,
+          "thumbnail": "/texttospeech-445x252.jpg",
+          "title": "CHUYỂN ĐỔI VĂN BẢN THÀNH GIỌNG NÓI",
+          "description": "Chuyển đổi văn bản thành giọng nói bằng các mô hình AI với các tính năng sau:",
+          "content": "<ul><li>Nhận dạng và giải thích chính xác văn bản nhập bằng ngôn ngữ tự nhiên.</li><li>Tạo giọng nói thực tế và giống con người bằng thuật toán máy học và kỹ thuật tổng hợp giọng nói.</li><li>Hỗ trợ nhiều ngôn ngữ và giọng điệu để đảm bảo rằng người dùng từ các khu vực khác nhau có thể sử dụng hệ thống một cách hiệu quả.</li><li>Tích hợp với các hệ thống phần cứng và phần mềm khác để cho phép liên lạc và kiểm soát liền mạch trên các thiết bị khác nhau.</li><li>Cho phép tùy chỉnh các tham số đầu ra giọng nói, chẳng hạn như âm sắc, tốc độ và cao độ giọng nói, để phục vụ cho sở thích của từng người dùng.</li><li>Giám sát tương tác của người dùng với hệ thống và điều chỉnh đầu ra giọng nói phù hợp để nâng cao trải nghiệm người dùng.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "try_url": "http://gradio.connectedbrain.com.vn/",
+          "is_redirect": true,
+          "thumbnail": "/textsummarization-445x252.jpg",
+          "title": "Tóm tắt văn bản",
+          "description": "Tóm tắt văn bản một cách nhanh gọn và mang tính hiệu quả.",
+          "content": "<ul><li>Xử lý lượng lớn dữ liệu một cách nhanh chóng, giúp tạo ra các tóm tắt trong thời gian ngắn mà vẫn duy trì tính chính xác.</li><li>Tự động phân tích và tóm tắt nội dung từ văn bản gốc mà không cần sự can thiệp của con người.</li><li>Phân loại và nhận biết các ý chính, thông tin quan trọng trong văn bản để tạo tóm tắt chính xác hơn.</li><li>Giúp người dùng tiết kiệm thời gian và công sức trong việc nắm bắt nội dung quan trọng từ các nguồn thông tin phức tạp.</li><li>Khả năng xử lý nhiều ngôn ngữ khác nhau, giúp tạo tóm tắt từ các nguồn thông tin đa quốc gia.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "banner": "/banner-home.jpg",
+      "img": "/ic-cate3.png",
+      "title": "robot_control",
+      "products": [
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "NHẬN DIỆN KHUÔN MẶT",
+          "description": "Phát hiện khuôn mặt là quá trình xác định và định vị khuôn mặt người trong luồng hình ảnh hoặc video. Công nghệ này có thể được sử dụng cho nhiều ứng dụng, chẳng hạn như giám sát an ninh, gắn thẻ ảnh và thực tế tăng cường.",
+          "content": "<ul><li>Các mô hình AI có thể được sử dụng để phát hiện các trạng thái khác nhau của khuôn mặt, chẳng hạn như biểu cảm bình thường, nụ cười hoặc cau mày. Ngoài ra, những mô hình này có thể được đào tạo để nhận ra các cá nhân cụ thể hoặc thậm chí là cảm xúc dựa trên nét mặt.</li><li>Bằng cách theo dõi những thay đổi trong nét mặt và chuyển động, có thể xác định các sự kiện cụ thể, chẳng hạn như một người nhìn đi chỗ khác, chớp mắt hoặc gật đầu. Thông tin này có thể được sử dụng để hiểu rõ hơn về hành vi và tương tác của con người trong các bối cảnh khác nhau.</li><li>Hơn nữa, thời gian giữa các sự kiện cụ thể trên khuôn mặt có thể được đo lường và phân tích để hiểu rõ hơn về các kiểu hành vi và trạng thái cảm xúc. Thông tin này có thể được sử dụng trong nhiều ứng dụng khác nhau, chẳng hạn như nghiên cứu tiếp thị, tâm lý học và tương tác giữa người với máy tính.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/posture-445x252.jpg",
+          "title": "PHÁT HIỆN TƯ THẾ",
+          "description": "Phát hiện hoạt động và chuyển động của con người bằng cách áp dụng nhận dạng tư thế cho nguồn cấp dữ liệu video",
+          "content": "<ul><li>AI lập mô hình để phát hiện các trạng thái tư thế sau: Nằm, ngồi, đi và đứng.</li><li>Theo dõi những thay đổi về tư thế của con người để xác định các sự kiện cụ thể (đứng lên, ngồi xuống, ngã xuống).</li><li>Xác định thời gian giữa các sự kiện thay đổi tư thế cụ thể.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "PHÁT HIỆN NGƯỜI ĐEO KHẨU TRANG",
+          "description": "Việc áp dụng các mô hình AI để phát hiện hành vi đeo khẩu trang trong nguồn cấp dữ liệu video có thể là một công cụ hữu ích trong việc thực thi các chính sách y tế công cộng. Dưới đây là một số tính năng tiềm năng của một hệ thống như vậy:",
+          "content": "<ul><li>Các mô hình AI để phát hiện sự hiện diện hay vắng mặt của mặt nạ trên khuôn mặt của mọi người trong nguồn cấp dữ liệu video.</li><li>Theo dõi các thay đổi trong hành vi đeo khẩu trang để xác định các sự kiện cụ thể, chẳng hạn như mọi người đeo hoặc tháo khẩu trang.</li><li>Xác định khoảng thời gian các cá nhân đeo hoặc không đeo khẩu trang.</li><li>Thông báo cho nhân viên an ninh hoặc y tế nếu các cá nhân không đeo khẩu trang ở những khu vực được chỉ định.</li><li>Cung cấp dữ liệu về việc tuân thủ các chính sách đeo khẩu trang theo thời gian, cho phép phân tích các xu hướng và hiệu quả của các biện pháp can thiệp y tế công cộng.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "banner": "/banner-home.jpg",
+      "img": "/ic-cate4.png",
+      "title": "learn_and_optimize",
+      "products": [
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "NHẬN DIỆN KHUÔN MẶT",
+          "description": "Phát hiện khuôn mặt là quá trình xác định và định vị khuôn mặt người trong luồng hình ảnh hoặc video. Công nghệ này có thể được sử dụng cho nhiều ứng dụng, chẳng hạn như giám sát an ninh, gắn thẻ ảnh và thực tế tăng cường.",
+          "content": "<ul><li>Các mô hình AI có thể được sử dụng để phát hiện các trạng thái khác nhau của khuôn mặt, chẳng hạn như biểu cảm bình thường, nụ cười hoặc cau mày. Ngoài ra, những mô hình này có thể được đào tạo để nhận ra các cá nhân cụ thể hoặc thậm chí là cảm xúc dựa trên nét mặt.</li><li>Bằng cách theo dõi những thay đổi trong nét mặt và chuyển động, có thể xác định các sự kiện cụ thể, chẳng hạn như một người nhìn đi chỗ khác, chớp mắt hoặc gật đầu. Thông tin này có thể được sử dụng để hiểu rõ hơn về hành vi và tương tác của con người trong các bối cảnh khác nhau.</li><li>Hơn nữa, thời gian giữa các sự kiện cụ thể trên khuôn mặt có thể được đo lường và phân tích để hiểu rõ hơn về các kiểu hành vi và trạng thái cảm xúc. Thông tin này có thể được sử dụng trong nhiều ứng dụng khác nhau, chẳng hạn như nghiên cứu tiếp thị, tâm lý học và tương tác giữa người với máy tính.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/posture-445x252.jpg",
+          "title": "PHÁT HIỆN TƯ THẾ",
+          "description": "Phát hiện hoạt động và chuyển động của con người bằng cách áp dụng nhận dạng tư thế cho nguồn cấp dữ liệu video",
+          "content": "<ul><li>AI lập mô hình để phát hiện các trạng thái tư thế sau: Nằm, ngồi, đi và đứng.</li><li>Theo dõi những thay đổi về tư thế của con người để xác định các sự kiện cụ thể (đứng lên, ngồi xuống, ngã xuống).</li><li>Xác định thời gian giữa các sự kiện thay đổi tư thế cụ thể.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "PHÁT HIỆN NGƯỜI ĐEO KHẨU TRANG",
+          "description": "Việc áp dụng các mô hình AI để phát hiện hành vi đeo khẩu trang trong nguồn cấp dữ liệu video có thể là một công cụ hữu ích trong việc thực thi các chính sách y tế công cộng. Dưới đây là một số tính năng tiềm năng của một hệ thống như vậy:",
+          "content": "<ul><li>Các mô hình AI để phát hiện sự hiện diện hay vắng mặt của mặt nạ trên khuôn mặt của mọi người trong nguồn cấp dữ liệu video.</li><li>Theo dõi các thay đổi trong hành vi đeo khẩu trang để xác định các sự kiện cụ thể, chẳng hạn như mọi người đeo hoặc tháo khẩu trang.</li><li>Xác định khoảng thời gian các cá nhân đeo hoặc không đeo khẩu trang.</li><li>Thông báo cho nhân viên an ninh hoặc y tế nếu các cá nhân không đeo khẩu trang ở những khu vực được chỉ định.</li><li>Cung cấp dữ liệu về việc tuân thủ các chính sách đeo khẩu trang theo thời gian, cho phép phân tích các xu hướng và hiệu quả của các biện pháp can thiệp y tế công cộng.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "banner": "/banner-home.jpg",
+      "img": "/ic-cate5.png",
+      "title": "data_analyze",
+      "products": [
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "NHẬN DIỆN KHUÔN MẶT",
+          "description": "Phát hiện khuôn mặt là quá trình xác định và định vị khuôn mặt người trong luồng hình ảnh hoặc video. Công nghệ này có thể được sử dụng cho nhiều ứng dụng, chẳng hạn như giám sát an ninh, gắn thẻ ảnh và thực tế tăng cường.",
+          "content": "<ul><li>Các mô hình AI có thể được sử dụng để phát hiện các trạng thái khác nhau của khuôn mặt, chẳng hạn như biểu cảm bình thường, nụ cười hoặc cau mày. Ngoài ra, những mô hình này có thể được đào tạo để nhận ra các cá nhân cụ thể hoặc thậm chí là cảm xúc dựa trên nét mặt.</li><li>Bằng cách theo dõi những thay đổi trong nét mặt và chuyển động, có thể xác định các sự kiện cụ thể, chẳng hạn như một người nhìn đi chỗ khác, chớp mắt hoặc gật đầu. Thông tin này có thể được sử dụng để hiểu rõ hơn về hành vi và tương tác của con người trong các bối cảnh khác nhau.</li><li>Hơn nữa, thời gian giữa các sự kiện cụ thể trên khuôn mặt có thể được đo lường và phân tích để hiểu rõ hơn về các kiểu hành vi và trạng thái cảm xúc. Thông tin này có thể được sử dụng trong nhiều ứng dụng khác nhau, chẳng hạn như nghiên cứu tiếp thị, tâm lý học và tương tác giữa người với máy tính.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/posture-445x252.jpg",
+          "title": "PHÁT HIỆN TƯ THẾ",
+          "description": "Phát hiện hoạt động và chuyển động của con người bằng cách áp dụng nhận dạng tư thế cho nguồn cấp dữ liệu video",
+          "content": "<ul><li>AI lập mô hình để phát hiện các trạng thái tư thế sau: Nằm, ngồi, đi và đứng.</li><li>Theo dõi những thay đổi về tư thế của con người để xác định các sự kiện cụ thể (đứng lên, ngồi xuống, ngã xuống).</li><li>Xác định thời gian giữa các sự kiện thay đổi tư thế cụ thể.</li></ul>"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=_sI_Ps7JSEk",
+          "thumbnail": "/faceNet-445x252.jpg",
+          "title": "PHÁT HIỆN NGƯỜI ĐEO KHẨU TRANG",
+          "description": "Việc áp dụng các mô hình AI để phát hiện hành vi đeo khẩu trang trong nguồn cấp dữ liệu video có thể là một công cụ hữu ích trong việc thực thi các chính sách y tế công cộng. Dưới đây là một số tính năng tiềm năng của một hệ thống như vậy:",
+          "content": "<ul><li>Các mô hình AI để phát hiện sự hiện diện hay vắng mặt của mặt nạ trên khuôn mặt của mọi người trong nguồn cấp dữ liệu video.</li><li>Theo dõi các thay đổi trong hành vi đeo khẩu trang để xác định các sự kiện cụ thể, chẳng hạn như mọi người đeo hoặc tháo khẩu trang.</li><li>Xác định khoảng thời gian các cá nhân đeo hoặc không đeo khẩu trang.</li><li>Thông báo cho nhân viên an ninh hoặc y tế nếu các cá nhân không đeo khẩu trang ở những khu vực được chỉ định.</li><li>Cung cấp dữ liệu về việc tuân thủ các chính sách đeo khẩu trang theo thời gian, cho phép phân tích các xu hướng và hiệu quả của các biện pháp can thiệp y tế công cộng.</li></ul>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "layout": {
+    "login": "Sign in",
+    "menu": "Menu",
+    "menu_items": {
+      "product": "Product",
+      "inventigate": "Inventigate",
+      "service": "Service"
+    },
+    "pricing": "Pricing",
+    "pricing_items": {
+      "personal": "Personal",
+      "enterprise": "Enterprise",
+      "company": "Company"
+    },
+    "support": "Support",
+    "support_items": {
+      "support": "Support",
+      "privacy": "Privacy",
+      "contact": "Contact"
+    },
+    "sign_out":"Sign out"
+  },
+  "home":  {
+    "computer_vision": "Computer Vision",
+    "language_process": "Natural Language Processing",
+    "robot_control": "Control And Robotics-",
+    "learn_and_optimize": "Reinforcement Learning And Optimization",
+    "data_analyze": "Data Visualization Tool"
+  },
+  "records": {
+    "list_records": "List records",
+    "delete_btn": "Delete",
+    "detail_btn": "Detail",
+    "record": "Record",
+    "add_audio": "Add audio file",
+    "trans": "Translate",
+    "intruction": "Intruction",
+    "download": "Download"
+  }
+}
